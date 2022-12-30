@@ -1,0 +1,8 @@
+Harrish 12/12/2021 Ragavendar
+Roll Number matched.
+harrish@DESKTOP-H9F3G5C:/mnt/d/Compiler Lab$ ./a.out
+Enter roll number: 17MCS009
+11/05/2002 i'M A STUDENT
+MSEC 18/07/2089 
+01-08-2010
+07/JAN/2000

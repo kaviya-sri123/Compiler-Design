@@ -1,0 +1,4 @@
+|RID|	OPER|	OP1	OP2|	RESULT|
+0	-	c		T1
+1	+	b	T1	T2
+2	=	T2		a
